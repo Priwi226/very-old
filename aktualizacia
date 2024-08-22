@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+import os 
+os.system ("sudo apt-get update -y")
+os.system ("sudo apt-get upgrade -y")
+os.system ("sudo apt-get dist-upgrade -y")
+os.system ("sudo apt-get autoremove -y")
+
